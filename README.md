@@ -51,3 +51,7 @@ Recomendacion: hacer commits pequeños y con mensajes claros.
 Vincular el repo local a GitHub:
 - `git remote add origin https://github.com/usuario/repositorio.git`
 Verificar: `git remote -v`.
+## Subir cambios a GitHub
+- Asegurar rama principal: `git branch -M main`
+- Primer push (crea el upstream): `git push -u origin main`
+- Siguientes pushes: `git push`
