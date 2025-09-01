@@ -43,3 +43,7 @@ Primeros pasos para iniciar un proyecto desde cero:
 - Confirmar cambios: `git commit -m "mensaje"`
 - 'git push'
 Recomendacion: hacer commits pequeños y con mensajes claros.
+## Crear repositorio en GitHub
+1. Ir a GitHub > New repository.
+2. Nombrar el repo (recomendado sin espacios).
+3. Crear vacío (sin README para evitar conflictos) y copiar la URL HTTPS/SSH.
