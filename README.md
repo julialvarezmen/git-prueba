@@ -66,3 +66,10 @@ Verificar: `git remote -v`.
    `git push -u origin main`
 3. En los siguientes commits basta con:  
    `git push`
+Buenas prácticas con Git
+- Hacer commits pequeños y frecuentes.
+- Usar mensajes claros y descriptivos.
+- Crear ramas para nuevas funcionalidades:  
+  `git switch -c nombre-rama`
+- Mantener sincronizado el repositorio con:  
+  `git pull --rebase` antes de `git push`.
