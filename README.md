@@ -59,3 +59,10 @@ Verificar: `git remote -v`.
 - ingresar a 'GitHub.com'
 - Crear cuenta con tu correo electrónico
 - ingresar con julian.alvarezm@sofka.com.co
+##  Subir cambios a GitHub
+1. Asegurar que estamos en la rama principal:  
+   `git branch -M main`
+2. Subir cambios al remoto:  
+   `git push -u origin main`
+3. En los siguientes commits basta con:  
+   `git push`
