@@ -37,3 +37,9 @@ Primeros pasos para iniciar un proyecto desde cero:
 1. `mkdir mi_proyecto && cd mi_proyecto`
 2. `git init`
 3. Crear archivos y confirmar con `git add` + `git commit`.
+## Flujo de trabajo básico
+- Ver estado: `git status`
+- Preparar cambios: `git add <archivo>` o `git add .`
+- Confirmar cambios: `git commit -m "mensaje"`
+- 'git push'
+Recomendacion: hacer commits pequeños y con mensajes claros.
