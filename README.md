@@ -32,3 +32,8 @@ Julian Alvarez Mendoza
 Antes del primer commit configuramos identidad:
 - `git config --global user.name "Nombre Usuario"`
 - `git config --global user.email "julia.alvarezm@sofka.com.co"`
+## Crear un repositorio local
+Primeros pasos para iniciar un proyecto desde cero:
+1. `mkdir mi_proyecto && cd mi_proyecto`
+2. `git init`
+3. Crear archivos y confirmar con `git add` + `git commit`.
