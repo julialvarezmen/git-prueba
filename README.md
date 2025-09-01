@@ -28,3 +28,7 @@ Julian Alvarez Mendoza
 
 
 
+## Configuración inicial
+Antes del primer commit configuramos identidad:
+- `git config --global user.name "Nombre Usuario"`
+- `git config --global user.email "julia.alvarezm@sofka.com.co"`
