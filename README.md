@@ -55,3 +55,7 @@ Verificar: `git remote -v`.
 - Asegurar rama principal: `git branch -M main`
 - Primer push (crea el upstream): `git push -u origin main`
 - Siguientes pushes: `git push`
+## Crear Cuenta en GitHub
+- ingresar a 'GitHub.com'
+- Crear cuenta con tu correo electrónico
+- ingresar con julian.alvarezm@sofka.com.co
