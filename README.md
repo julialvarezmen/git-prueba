@@ -47,3 +47,7 @@ Recomendacion: hacer commits pequeños y con mensajes claros.
 1. Ir a GitHub > New repository.
 2. Nombrar el repo (recomendado sin espacios).
 3. Crear vacío (sin README para evitar conflictos) y copiar la URL HTTPS/SSH.
+## Conectar repositorio local con remoto
+Vincular el repo local a GitHub:
+- `git remote add origin https://github.com/usuario/repositorio.git`
+Verificar: `git remote -v`.
