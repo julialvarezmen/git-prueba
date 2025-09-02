@@ -73,3 +73,8 @@ Buenas prácticas con Git
   `git switch -c nombre-rama`
 - Mantener sincronizado el repositorio con:  
   `git pull --rebase` antes de `git push`.
+## Creación de ramas
+- Rama feature: para nuevas funcionalidades.
+- Rama hotfix: para correcciones rápidas en producción.
+- Rama develop: para integrar cambios antes de pasar a main.
+
