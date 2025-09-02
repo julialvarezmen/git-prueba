@@ -73,3 +73,7 @@ Buenas prácticas con Git
   `git switch -c nombre-rama`
 - Mantener sincronizado el repositorio con:  
   `git pull --rebase` antes de `git push`.
+## Desarrollo en paralelo
+- `feature`: desarrollo de nuevas funcionalidades.
+- `hotfix`: aplicación de parches urgentes.
+- `develop`: rama intermedia para integrar.
