@@ -78,3 +78,13 @@ Buenas prácticas con Git
 - Rama hotfix: para correcciones rápidas en producción.
 - Rama develop: para integrar cambios antes de pasar a main.
 
+# Flujo de trabajo
+1. Se crean ramas específicas (`feature`, `hotfix`, `develop`).
+2. Cada rama se dedica a un propósito.
+3. Se desarrollan cambios en paralelo.
+4. Se integran en `develop` resolviendo conflictos.
+5. Se aplican parches urgentes desde `hotfix`.
+6. Se usa `git stash` para guardar cambios temporales.
+7. Finalmente, `develop` se integra en `main`.
+
+
